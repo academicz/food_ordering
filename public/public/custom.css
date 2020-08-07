@@ -1,0 +1,8 @@
+.price .quantity {
+    color: #000;
+}
+.single-item image {
+    height: 130px !important;
+    width: 130px !important;
+    max-width: 130px;
+}
